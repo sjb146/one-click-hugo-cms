@@ -1,6 +1,6 @@
 ---
 title: Values
-image: /img/android-chrome-192x192.png
+image: /img/background-header2.jpg
 values:
   - heading: Power and Persuasion
     imageUrl: /img/about-jumbotron.jpg
